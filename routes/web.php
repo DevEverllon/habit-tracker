@@ -9,6 +9,8 @@ use App\Http\Controllers\SiteController;
 
 Route::get('/', [SiteController::class, 'index']);
 
+
+
 //MVC
 //Model - Banco de Dados
 //View - Interface
